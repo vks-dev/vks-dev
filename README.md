@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vks-2002 (Venkata Krishna Sai Miriyala)
+- 👋 Hi, I’m Venkata Krishna Sai Miriyala. I am currently working as Senior Software Engineer at @HCLTech
 - 👀 I’m a Tech Enthusiast & aspiring Web Developer
 - 📫 How to reach me - https://www.linkedin.com/in/venkata-krishna-sai-miriyala-5867901b1/
 
