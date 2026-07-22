@@ -17,7 +17,7 @@
 <!-- Replace this block with 2–3 sentences about yourself -->
 
 3 years of experience building responsive, user-focused web applications with React.
-Comfortable across the full frontend lifecycle — from wireframe to deployment.
+Comfortable across the full frontend lifecycle.
 
 ---
 
